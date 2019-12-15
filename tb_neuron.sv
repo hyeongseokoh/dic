@@ -1,5 +1,5 @@
 /*----------------------------------------------------------------------
-TESTBENCH tb_neuron.sv
+ TESTBENCH tb_neuron.sv
 
 = Purpose =
 A testbench for the digital neuron model.
