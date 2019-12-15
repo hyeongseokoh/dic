@@ -1,0 +1,128 @@
+{
+    "math_pkg": [
+        "math_pkg",
+        "aG6Rf",
+        "module",
+        5
+    ],
+    "trig_time": [
+        "trig_time",
+        "uTRJL",
+        "module",
+        11
+    ],
+    "_vcs_unit__217061925": [
+        "_vcs_unit__217061925",
+        "QGjEr",
+        "module",
+        1
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        21
+    ],
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        2
+    ],
+    "add_0000": [
+        "add_0000",
+        "c8uBC",
+        "module",
+        7
+    ],
+    "TG_mux": [
+        "TG_mux",
+        "fPeZa",
+        "module",
+        20
+    ],
+    "switch_0000": [
+        "switch_0000",
+        "DE7Kd",
+        "module",
+        15
+    ],
+    "xmodel_pkg": [
+        "xmodel_pkg",
+        "xpQjW",
+        "module",
+        3
+    ],
+    "bit_to_xreal_var_0000": [
+        "bit_to_xreal_var_0000",
+        "JL0bb",
+        "module",
+        13
+    ],
+    "xmodel_prims": [
+        "xmodel_prims",
+        "nRDma",
+        "module",
+        4
+    ],
+    "xbit_to_xreal_var_0000": [
+        "xbit_to_xreal_var_0000",
+        "xez7y",
+        "module",
+        14
+    ],
+    "bit_to_xreal_var": [
+        "bit_to_xreal_var",
+        "FMcng",
+        "module",
+        12
+    ],
+    "XMODEL_global": [
+        "XMODEL_global",
+        "w8VQw",
+        "module",
+        6
+    ],
+    "meas_integ": [
+        "meas_integ",
+        "pInDd",
+        "module",
+        10
+    ],
+    "slice": [
+        "slice",
+        "PpQx1",
+        "module",
+        8
+    ],
+    "clk_gen": [
+        "clk_gen",
+        "MEIvW",
+        "module",
+        9
+    ],
+    "switch_0001": [
+        "switch_0001",
+        "hfbc7",
+        "module",
+        16
+    ],
+    "tb_neuron": [
+        "tb_neuron",
+        "FYR0Y",
+        "module",
+        17
+    ],
+    "eightbitinput_RCA": [
+        "eightbitinput_RCA",
+        "Kjc8a",
+        "module",
+        18
+    ],
+    "eight_transistor_full_adder": [
+        "eight_transistor_full_adder",
+        "Kppd9",
+        "module",
+        19
+    ]
+}

@@ -1,0 +1,266 @@
+{
+    "ObjArchives": [
+        {
+            "archive": "archive.3/_6114_archive_1.a",
+            "objects": [
+                [
+                    "xpQjW_d.o",
+                    32793
+                ],
+                [
+                    "nRDma_d.o",
+                    80569
+                ],
+                [
+                    "aG6Rf_d.o",
+                    11722
+                ],
+                [
+                    "c8uBC_d.o",
+                    30117
+                ],
+                [
+                    "PpQx1_d.o",
+                    20551
+                ],
+                [
+                    "MEIvW_d.o",
+                    65673
+                ],
+                [
+                    "FMcng_d.o",
+                    220507
+                ],
+                [
+                    "JL0bb_d.o",
+                    51458
+                ],
+                [
+                    "FYR0Y_d.o",
+                    231993
+                ],
+                [
+                    "amcQwB.o",
+                    80746
+                ]
+            ],
+            "size": 826129
+        }
+    ],
+    "Modules": {
+        "std": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "...MASTER...": {},
+        "add_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "math_pkg": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "trig_time": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "_vcs_unit__217061925": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "TG_mux": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "switch_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "xmodel_pkg": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "bit_to_xreal_var_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "xmodel_prims": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "xbit_to_xreal_var_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "bit_to_xreal_var": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "XMODEL_global": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "meas_integ": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "slice": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "clk_gen": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "switch_0001": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "tb_neuron": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "eightbitinput_RCA": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        },
+        "eight_transistor_full_adder": {
+            "Compiled": "Yes",
+            "Compiled Times": 4
+        }
+    },
+    "CompUnits": {
+        "JL0bb_d": {
+            "mod": "bit_to_xreal_var_0000",
+            "out": "JL0bb_d.o",
+            "bytes": 51458,
+            "checksum": 0,
+            "mode": 4,
+            "archive": "archive.3/_6114_archive_1.a"
+        },
+        "xpQjW_d": {
+            "mod": "xmodel_pkg",
+            "out": "xpQjW_d.o",
+            "bytes": 32793,
+            "checksum": 0,
+            "mode": 4,
+            "archive": "archive.3/_6114_archive_1.a"
+        },
+        "aG6Rf_d": {
+            "mod": "math_pkg",
+            "out": "aG6Rf_d.o",
+            "bytes": 11722,
+            "checksum": 0,
+            "mode": 4,
+            "archive": "archive.3/_6114_archive_1.a"
+        },
+        "FMcng_d": {
+            "mod": "bit_to_xreal_var",
+            "out": "FMcng_d.o",
+            "bytes": 220507,
+            "checksum": 0,
+            "mode": 4,
+            "archive": "archive.3/_6114_archive_1.a"
+        },
+        "nRDma_d": {
+            "mod": "xmodel_prims",
+            "out": "nRDma_d.o",
+            "bytes": 80569,
+            "checksum": 0,
+            "mode": 4,
+            "archive": "archive.3/_6114_archive_1.a"
+        },
+        "c8uBC_d": {
+            "mod": "add_0000",
+            "out": "c8uBC_d.o",
+            "bytes": 30117,
+            "checksum": 0,
+            "mode": 4,
+            "archive": "archive.3/_6114_archive_1.a"
+        },
+        "PpQx1_d": {
+            "mod": "slice",
+            "out": "PpQx1_d.o",
+            "bytes": 20551,
+            "checksum": 0,
+            "mode": 4,
+            "archive": "archive.3/_6114_archive_1.a"
+        },
+        "MEIvW_d": {
+            "mod": "clk_gen",
+            "out": "MEIvW_d.o",
+            "bytes": 65673,
+            "checksum": 0,
+            "mode": 4,
+            "archive": "archive.3/_6114_archive_1.a"
+        },
+        "FYR0Y_d": {
+            "mod": "tb_neuron",
+            "out": "FYR0Y_d.o",
+            "bytes": 231993,
+            "checksum": 0,
+            "mode": 4,
+            "archive": "archive.3/_6114_archive_1.a"
+        }
+    },
+    "reusePaths": {
+        "reYIK_d": {
+            "icPath": "csrc"
+        },
+        "pInDd_d": {
+            "icPath": "csrc"
+        },
+        "amcQw_d": {
+            "icPath": "csrc"
+        },
+        "QGjEr_d": {
+            "icPath": "csrc"
+        },
+        "uTRJL_d": {
+            "icPath": "csrc"
+        },
+        "fPeZa_d": {
+            "icPath": "csrc"
+        },
+        "Kppd9_d": {
+            "icPath": "csrc"
+        },
+        "w8VQw_d": {
+            "icPath": "csrc"
+        },
+        "xez7y_d": {
+            "icPath": "csrc"
+        },
+        "DE7Kd_d": {
+            "icPath": "csrc"
+        },
+        "hfbc7_d": {
+            "icPath": "csrc"
+        },
+        "Kjc8a_d": {
+            "icPath": "csrc"
+        }
+    },
+    "stat": {
+        "ru_self_end": {
+            "ru_nvcsw": 45,
+            "ru_minflt": 29755,
+            "ru_utime_sec": 2.42957,
+            "ru_nivcsw": 518,
+            "ru_stime_sec": 0.100686,
+            "ru_majflt": 0,
+            "ru_maxrss_kb": 85996
+        },
+        "ru_childs_end": {
+            "ru_nvcsw": 1,
+            "ru_minflt": 605,
+            "ru_utime_sec": 0.0010549999999999999,
+            "ru_nivcsw": 1,
+            "ru_stime_sec": 0.0014920000000000001,
+            "ru_majflt": 0,
+            "ru_maxrss_kb": 30564
+        },
+        "peak_mem_kb": 218588
+    }
+}
